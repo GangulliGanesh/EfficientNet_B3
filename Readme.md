@@ -1,28 +1,37 @@
 Image classifier for 4 categories of images.
-
 <p align="center">
 <em>Category1</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png">
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png"| width=30>
 </p>
 <p align="center">
 <em>Category2</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png">
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png" | width=30>
 </p>
 <p align="center">
 <em>Category3</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png">
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=30>
 </p>
 <p align="center">
 <em>Category4</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png">
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=30>
+</p>
+<em>Dataset</em>
+</p>
+<p align="center">
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/dataset.png">
+</p>
+<em>Test Results</em>
+</p>
+<p align="center">
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/result.png">
 </p>
 
 1.Create new environment -python3.6 -m venv env_eff,Activate using -source bin/activate. <br/>
