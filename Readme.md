@@ -5,7 +5,7 @@
 <img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=100>
 <img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=100>
 </p>
-<p align="left"><em>Category1 Category2 Category3 Category4</em></p>
+<p align="left"><em>Category1    Category2    Category3    Category4</em></p>
 <h2>Dataset</h2>
 <p align="center"><img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/dataset.png"></p>
 <h3>Test Results</h3>
