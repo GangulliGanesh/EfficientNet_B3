@@ -3,8 +3,6 @@
 </p>
 <p align="center">
 <em>Category1</em>
-</p>
-<p align="center">
 <img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png"| width=100>
 </p>
 <p align="center">
