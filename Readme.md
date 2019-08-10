@@ -1,28 +1,27 @@
-<p align="center">
 <h1>Image classifier for 4 categories of images</h1>
-</p>
-<p align="center">
-<em>Category1</em>
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png"| width=100>
-</p>
-<p align="center">
-<em>Category2</em>
-</p>
-<p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png" | width=100>
-</p>
-<p align="center">
-<em>Category3</em>
-</p>
-<p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=100>
-</p>
-<p align="center">
-<em>Category4</em>
-</p>
-<p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=100>
-</p>
+
+#<p align="center">
+#<em>Category1</em>
+#<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png"| width=100>
+#</p>
+#<p align="center">
+#<em>Category2</em>
+#</p>
+#<p align="center">
+#<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png" | width=100>
+#</p>
+#<p align="center">
+#<em>Category3</em>
+#</p>
+#<p align="center">
+#<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=100>
+#</p>
+#<p align="center">
+#<em>Category4</em>
+#</p>
+#<p align="center">
+#<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=100>
+#</p>
 <em>Dataset</em>
 </p>
 <p align="center">
