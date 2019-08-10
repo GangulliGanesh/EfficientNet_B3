@@ -3,25 +3,25 @@ Image classifier for 4 categories of images.
 <em>Category1</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png"| width=30>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png"| width=100>
 </p>
 <p align="center">
 <em>Category2</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png" | width=30>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png" | width=100>
 </p>
 <p align="center">
 <em>Category3</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=30>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=100>
 </p>
 <p align="center">
 <em>Category4</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=30>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=100>
 </p>
 <em>Dataset</em>
 </p>
