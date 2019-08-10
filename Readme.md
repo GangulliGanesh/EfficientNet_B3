@@ -1,5 +1,5 @@
 <p align="center">
-<em>Image classifier for 4 categories of images</em>
+<h1>Image classifier for 4 categories of images</h1>
 </p>
 <p align="center">
 <em>Category1</em>
