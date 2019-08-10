@@ -1,6 +1,6 @@
 <h1>Image classifier for 4 categories of images</h1>
 
-![Category1](https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png)
+![Category1](https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png =100X100)
 
 
 #<p align="center">
