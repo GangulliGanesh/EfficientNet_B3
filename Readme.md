@@ -1,4 +1,6 @@
-Image classifier for 4 categories of images.
+<p align="center">
+<em>Image classifier for 4 categories of images</em>
+</p>
 <p align="center">
 <em>Category1</em>
 </p>
@@ -38,4 +40,4 @@ Image classifier for 4 categories of images.
 2.cd to Efficientnet_B3 ,Run -sudo chmod +x install.sh <br/>
 3.Run ./install.sh <br/>
 4.Open jupyter notebook and change the kernal to Efficientnet.<br/>
-5.Link to download pre-trained model --https://drive.google.com/open?id=1-FpDRejrZsgzc3blAMDNS-w6IL2O8Vyd 
+5.To test you have to run All the sections except for Adding new layers and Training of Notebook.ipynb.Link to download pre-trained model --https://drive.google.com/open?id=1-FpDRejrZsgzc3blAMDNS-w6IL2O8Vyd 
