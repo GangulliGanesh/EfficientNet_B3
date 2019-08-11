@@ -1,9 +1,9 @@
 <h1>Image classifier for 4 categories of images</h1>
 <p>
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png" | width=100>
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png" | width=100>
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=100>
-<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=100>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/1052.png" | width=150>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/6052.png" | width=150>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/4052.png" | width=150>
+<img src="https://github.com/Aakroat/EfficientNet_B3/blob/master/Images/C053.png" | width=150>
 </p>
 <p align="left"><em>Category1______Category2______Category3______Category4</em></p>
 <h2>Dataset</h2>
